@@ -13,7 +13,7 @@ O jogo integra conceitos de ambas as áreas, combinando fundamentos de **lógica
 | [Andrews Queiroz](https://github.com/4ndrewss) | @4ndrewss |
 | [Arthur Ferreira](https://github.com/ArchangelLoer) | @ArchangelLoer |
 | [Enzo Amorim](https://github.com/ENZOBRS) | @ENZOBRS |
-| Gustavo Veloso | — |
+| [Gustavo Veloso](https://github.com/velosogustavo) | @velosogustavo |
 | [Pedro Henrique](https://github.com/Pedrohcs13) | @Pedrohcs13 |
 | [Hilton Resende](https://github.com/HResende23) *(Somente na disciplina de Lógica para Computação)* | @HResende23 |
 
